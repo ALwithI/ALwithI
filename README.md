@@ -51,7 +51,9 @@
 <h3 align="left">🔥 My Stats :</h3>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALwithI&theme=dark&hide_border=false" height="220" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ALwithI&show_icons=true&theme=dark" height="200" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALwithI&layout=compact&theme=dark" height="200" />
 </div>
 
 
