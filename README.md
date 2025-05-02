@@ -1,7 +1,8 @@
 <h2 align="left">Hi 👋! My name is Zemouri Ali and I'm a Software Engineering student, from Algeria. I'm currently in my third year of a Bachelor's degree in Computer Systems Engineering and Software (ISIL) at the University of Algiers 1 - Youcef Benkheda.</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ALwithI&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ALwithI&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ALwithI&show_icons=true&theme=dark" height="200" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALwithI&layout=compact&theme=dark" height="200" />
 </div>
 
 
@@ -48,13 +49,9 @@
 </a>
 
 </div>
-<h3 align="left">🔥 My Stats :</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ALwithI&show_icons=true&theme=dark" height="200" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALwithI&layout=compact&theme=dark" height="200" />
-</div>
+
+
 
 
 ###
