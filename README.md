@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Zemouri Ali and I'm a Software Engineering student, from Algeria. I'm currently in my third year of a Bachelor's degree in Computer Systems Engineering and Software (ISIL) at the University of Algiers 1 - Youcef Benkheda.</h2>
+<h2 align="left">Hi 👋! My name is Zemouri Ali and I'm a Software Engineering student from Algeria. I'm currently pursuing a Master's degree in Intelligent Computer Systems Engineering (ISII) at the University of Algiers 1 - Youcef Benkheda.</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ALwithI&show_icons=true&theme=dark" height="200" />
   <br />
