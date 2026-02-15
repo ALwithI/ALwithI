@@ -71,8 +71,8 @@ Here are some projects I’ve worked on:
 
 🔗 LinkedIn: [linkedin.com/in/ali-zemouri](https://linkedin.com/in/ali-zemouri)
 💻 GitHub: PUT_YOUR_GITHUB_LINK_HERE  
-📧 Email: PUT_YOUR_EMAIL_HERE  
-🌐 Portfolio: PUT_YOUR_PORTFOLIO_LINK_HERE  
+📧 Email: alizemouri014@gmail.com  
+🌐 Portfolio: [ali-s.vercel.app](https://ali-s.vercel.app)
 
 ---
 
